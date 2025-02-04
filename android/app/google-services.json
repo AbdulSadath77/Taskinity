@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501696168023",
+    "project_id": "taskinity",
+    "storage_bucket": "taskinity.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501696168023:android:71c761f069f4a745842312",
+        "android_client_info": {
+          "package_name": "com.example.taskinity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrgL4OcqSV11e0V9ek_dojfUETPwq61Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
